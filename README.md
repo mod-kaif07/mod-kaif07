@@ -64,5 +64,5 @@
 <h3 align="center">📊 LeetCode Progress Overview</h3>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mdkaif1124?ext=heatmap&theme=dark&animation=true&font=Baloo+Bhai&border=1&radius=10" width="350" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/mdkaif1124?ext=heatmap&theme=dark&animation=true&font=Baloo+Bhai&border=1&radius=10" width="150" alt="LeetCode Stats" />
 </p>
