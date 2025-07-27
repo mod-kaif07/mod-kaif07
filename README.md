@@ -16,7 +16,7 @@
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/mohammad-kaif" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammad-kaif-9a0bb6284/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://fb.com/mohammadkaif" target="_blank">
