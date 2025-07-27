@@ -25,8 +25,10 @@
   <a href="https://instagram.com/kaif_07official" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/mohammadkaif" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+ <a href="https://codeforces.com/profile/mohammadkaif" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Codeforces_logo.svg" alt="Codeforces" width="40" height="40" />
+  </a>
+</p>
   </a>
   <a href="https://leetcode.com/mdkaif1124" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
@@ -40,7 +42,8 @@
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="40" height="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
+
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
@@ -54,7 +57,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mod-kaif07&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
+<h3 align="center">💻 LeetCode Stats</h3>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mdkaif1124?theme=light&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/mdkaif1124?ext=heatmap&theme=dark&animation=true" alt="LeetCode Stats" />
 </p>
