@@ -61,8 +61,34 @@
 
 ---
 
-<h3 align="center">💻 LeetCode Stats</h3>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mdkaif1124?theme=dark&font=Source+Code+Pro&ext=activity" alt="LeetCode Stats" width="400" />
-</p>
+<h3 align="center">📊 LeetCode Progress Overview</h3>
+
+<table align="center">
+  <tr>
+    <!-- Total Questions Solved -->
+    <td align="center" width="300" style="background-color:#1d1d2e; border:1px solid #2c2c3a; border-radius:10px; padding:15px; font-family:Segoe UI, sans-serif;">
+      <h2 style="color:#70a1ff; margin: 0;">320</h2>
+      <p style="color:#dcdde1; margin: 5px 0 0;">Total Questions</p>
+      <p style="color:#70f5cb; font-size:12px; margin: 2px 0;">Last Updated: Jul 27, 2025</p>
+    </td>
+
+    <!-- Difficulty Breakdown -->
+    <td align="center" width="300" style="background-color:#1d1d2e; border:1px solid #2c2c3a; border-radius:10px; padding:15px; font-family:Segoe UI, sans-serif;">
+      <h2 style="color:#eccc68; margin: 0;">🎯</h2>
+      <p style="color:#fbc531; margin: 5px 0;">Easy: <strong>140</strong></p>
+      <p style="color:#00a8ff; margin: 5px 0;">Medium: <strong>135</strong></p>
+      <p style="color:#ff4757; margin: 5px 0;">Hard: <strong>45</strong></p>
+    </td>
+
+    <!-- Streak Info -->
+    <td align="center" width="300" style="background-color:#1d1d2e; border:1px solid #2c2c3a; border-radius:10px; padding:15px; font-family:Segoe UI, sans-serif;">
+      <h2 style="color:#a29bfe; margin: 0;">🔥 14</h2>
+      <p style="color:#dcdde1; margin: 5px 0;">Current Streak</p>
+      <hr style="border: 0.5px solid #444; width: 80%;">
+      <p style="color:#70f5cb; font-size:13px; margin: 4px 0;">Active Days: <strong>55</strong></p>
+      <p style="color:#70f5cb; font-size:13px; margin: 2px 0;">Max Streak: <strong>18</strong></p>
+    </td>
+  </tr>
+</table>
+
 
