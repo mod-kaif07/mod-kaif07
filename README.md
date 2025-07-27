@@ -63,32 +63,28 @@
 
 <h3 align="center">📊 LeetCode Progress Overview</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Total Questions-320-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Last Updated-Jul 27, 2025-70f5cb?style=for-the-badge" />
+</p>
+
 <table align="center">
   <tr>
-    <!-- Total Questions Solved -->
-    <td align="center" width="300" style="background-color:#1d1d2e; border:1px solid #2c2c3a; border-radius:10px; padding:15px; font-family:Segoe UI, sans-serif;">
-      <h2 style="color:#70a1ff; margin: 0;">320</h2>
-      <p style="color:#dcdde1; margin: 5px 0 0;">Total Questions</p>
-      <p style="color:#70f5cb; font-size:12px; margin: 2px 0;">Last Updated: Jul 27, 2025</p>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Easy-140-fbc531?style=for-the-badge&logo=leetcode&logoColor=black" />
     </td>
-
-    <!-- Difficulty Breakdown -->
-    <td align="center" width="300" style="background-color:#1d1d2e; border:1px solid #2c2c3a; border-radius:10px; padding:15px; font-family:Segoe UI, sans-serif;">
-      <h2 style="color:#eccc68; margin: 0;">🎯</h2>
-      <p style="color:#fbc531; margin: 5px 0;">Easy: <strong>140</strong></p>
-      <p style="color:#00a8ff; margin: 5px 0;">Medium: <strong>135</strong></p>
-      <p style="color:#ff4757; margin: 5px 0;">Hard: <strong>45</strong></p>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Medium-135-00a8ff?style=for-the-badge&logo=leetcode&logoColor=black" />
     </td>
-
-    <!-- Streak Info -->
-    <td align="center" width="300" style="background-color:#1d1d2e; border:1px solid #2c2c3a; border-radius:10px; padding:15px; font-family:Segoe UI, sans-serif;">
-      <h2 style="color:#a29bfe; margin: 0;">🔥 14</h2>
-      <p style="color:#dcdde1; margin: 5px 0;">Current Streak</p>
-      <hr style="border: 0.5px solid #444; width: 80%;">
-      <p style="color:#70f5cb; font-size:13px; margin: 4px 0;">Active Days: <strong>55</strong></p>
-      <p style="color:#70f5cb; font-size:13px; margin: 2px 0;">Max Streak: <strong>18</strong></p>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Hard-45-ff4757?style=for-the-badge&logo=leetcode&logoColor=black" />
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Current Streak-14 days-a29bfe?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Active Days-55-70f5cb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Max Streak-18 days-9c88ff?style=for-the-badge" />
+</p>
 
