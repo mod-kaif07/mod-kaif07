@@ -64,27 +64,5 @@
 <h3 align="center">📊 LeetCode Progress Overview</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total Questions-320-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Last Updated-Jul 27, 2025-70f5cb?style=for-the-badge" />
+  <img src="https://leetcard.jacoblin.cool/mdkaif1124?ext=heatmap&theme=dark&animation=true&font=Baloo+Bhai&border=1&radius=10" width="750" alt="LeetCode Stats" />
 </p>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Easy-140-fbc531?style=for-the-badge&logo=leetcode&logoColor=black" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Medium-135-00a8ff?style=for-the-badge&logo=leetcode&logoColor=black" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Hard-45-ff4757?style=for-the-badge&logo=leetcode&logoColor=black" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Current Streak-14 days-a29bfe?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Active Days-55-70f5cb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Max Streak-18 days-9c88ff?style=for-the-badge" />
-</p>
-
