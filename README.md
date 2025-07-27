@@ -63,5 +63,6 @@
 
 <h3 align="center">💻 LeetCode Stats</h3>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mdkaif1124?theme=unicorn&ext=heatmap&animation=true" alt="LeetCode Stats" width="60%" />
+  <img src="https://leetcard.jacoblin.cool/mdkaif1124?theme=dark&font=Source+Code+Pro&ext=activity" alt="LeetCode Stats" width="400" />
 </p>
+
