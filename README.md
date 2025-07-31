@@ -56,7 +56,7 @@
 
 <h3 align="center">🔥 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mod-kaif07&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=mod-kaif07&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
