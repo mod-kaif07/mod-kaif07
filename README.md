@@ -6,7 +6,7 @@
 <p align="center">
   🔭 I’m currently working on <a href="https://github.com/mod-kaif07/Advance_backend_learnig-with-project.git" target="_blank"><b>building a YouTube clone (Fullstack)</b></a><br />
   🌱 I’m currently learning <b>Backend</b><br />
-  🏅 Institute Rank <b>48</b> on <a href="https://auth.geeksforgeeks.org/user/mohammadk3els" target="_blank">GeeksforGeeks</a><br />
+  🏅 Institute Rank <b>42</b> on <a href="https://auth.geeksforgeeks.org/user/mohammadk3els" target="_blank">GeeksforGeeks</a><br />
   📫 Reach me at: <b>mohammadkaif6660@gmail.com</b><br />
   📄 <a href="https://drive.google.com/file/d/1_GpX8qLr1JnNSa_tKbZlUeSyKex0lUub/view?usp=drive_link" target="_blank">View my Resume</a><br />
   ⚡ Fun fact: <i>"I solve DSA problems for fun... and sometimes dream in JavaScript." 😄</i>
