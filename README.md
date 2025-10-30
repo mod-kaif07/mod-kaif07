@@ -6,7 +6,7 @@
 <p align="center">
   🔭 I’m currenly  Working on <a href = "https://github.com/mod-kaif07/Room-Radner-R-R.git" target="_blank"><b>Room Rander R||R </b></a><br />
   🌱 I’m currently learning <b>Backend</b><br />
-  🏅 Institute Rank <b>40</b> on <a href="https://auth.geeksforgeeks.org/user/mohammadk3els" target="_blank">GeeksforGeeks</a><br />
+  🏅 Institute Rank <b>30</b> on <a href="https://auth.geeksforgeeks.org/user/mohammadk3els" target="_blank">GeeksforGeeks</a><br />
   📫 Reach me at: <b>mohammadkaif6660@gmail.com</b><br />
   📄 <a href="https://drive.google.com/file/d/1KDGBs9yUtyt2R8eW1DB2sE1iuTVetcsc/view?usp=sharing" target="_blank">View my Resume</a><br />
   ⚡ Fun fact: <i>"I solve DSA problems for fun... and sometimes dream in JavaScript." 😄</i>
