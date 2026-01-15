@@ -4,7 +4,7 @@
 <br />
 
 <p align="center">
-  🔭 I’m currenly  Working on <a href = "https://github.com/mod-kaif07/Uber_MERN_PROJECT.git" target="_blank"><b> UBER CLONE </b></a><br />
+  🔭 I’m currenly  Working on <a href = "https://github.com/mod-kaif07/CruiZo.git" target="_blank"><b> CURIZO </b></a><br />
   🌱 I’m currently learning <b>Backend</b><br />
   🏅 Institute Rank <b>30</b> on <a href="https://auth.geeksforgeeks.org/user/mohammadk3els" target="_blank">GeeksforGeeks</a><br />
   📫 Reach me at: <b>mohammadkaif6660@gmail.com</b><br />
